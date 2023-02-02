@@ -1,3 +1,4 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=9982326&assignment_repo_type=AssignmentRepo)
 # CS571-S23 HW01: Introductions
 In this homework, you will introduce yourself to your classmates using JSON! JSON is short for "JavaScript Object Notation" and it's the primary way that data is communicated over the internet! We will use JSON and its de-serialized counterpart, JS objects, a lot in this class.
 
