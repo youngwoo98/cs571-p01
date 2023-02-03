@@ -1,0 +1,15 @@
+{
+    "name" : {
+        "first" : "Youngwoo",
+        "last" : "Kim"
+    },
+    "fromWisconsin" : false,
+    "numCredits" : 17,
+    "major" : {
+        "major_1" : "Computer Science",
+        "major_2" : "Data Science"
+    },
+    "interests" : [
+        "Programming", "Game", "Soccer", "Football"
+    ]
+}
